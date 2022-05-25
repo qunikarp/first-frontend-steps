@@ -1,0 +1,23 @@
+body
+{
+    background-image: url();
+}
+.menu
+{
+    border: 3px dotted violet;
+    margin:15px;
+    background-color: blue;
+
+}
+.main-navigation
+{
+
+}
+.main-navigation-element
+{
+
+}
+$(function(){
+    $(".player").YTPlayer();
+  });
+  
